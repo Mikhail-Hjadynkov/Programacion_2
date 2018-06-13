@@ -1,0 +1,3 @@
+x.gaf (Game Art File)
+x.gsf (Game Save File)
+x.gef (Game Essential File)

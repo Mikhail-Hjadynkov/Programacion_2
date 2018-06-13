@@ -1,0 +1,22 @@
+﻿  World.cpp
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(462): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(494): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(498): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(502): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(506): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(510): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(514): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(518): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(522): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(973): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(1128): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(1819): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(1832): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(1845): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(1926): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(1989): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(2030): warning C4018: '<': signed/unsigned mismatch
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(47): warning C4715: 'C_World::btos': not all control paths return a value
+c:\users\missa\onedrive\documentos\tccpe archives\project fall of the atom\fall of the atom\fall of the atom\world.cpp(35): warning C4715: 'C_World::stob': not all control paths return a value
+  Fall of the Atom.vcxproj -> C:\Users\missa\OneDrive\Documentos\TCCPe Archives\Project Fall of the Atom\Fall of the Atom\Debug\Fall of the Atom.exe
